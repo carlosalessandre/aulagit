@@ -1,0 +1,6 @@
+Ola!
+<?php phpinfo();?>
+
+
+
+
